@@ -4,8 +4,9 @@ LED Switch
 
 Pretty simple here.
 
-Multicolor LED in pins 9, 10, 11 (red is 9, green is 10, blue is 11)
+Multicolor LED in pins 9, 10, 11 (red is 9, green is 10, blue is 11), and ground.
 
+Button/toggle connected to digital pin 2 (and ground).
 
 
  */
